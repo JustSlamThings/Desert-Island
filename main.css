@@ -1,0 +1,12 @@
+body {
+
+background-color: lightyellow;
+font-family: "Times New Roman", Times, serif
+padding-top: 20px;
+margin-left: 20px;
+}
+img{
+    display: block;
+    width: 50% ;
+    margin: auto;
+}
